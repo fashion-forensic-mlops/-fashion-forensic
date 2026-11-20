@@ -1,2 +1,3 @@
 def test_pipeline_is_alive():
-    assert True is True
+    result = 1 + 1
+    assert result == 2
